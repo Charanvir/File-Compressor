@@ -1,7 +1,5 @@
 /venv/
 .idea
-/test.py
-/test2.py
 /testFolder/
 __pycache__/
 .DS_Store
